@@ -1,0 +1,1 @@
+# djangoshoppingdemo-app
